@@ -1,2 +1,4 @@
 fast_posit_exp
 verify_anchors
+fast_bposit_exp.o
+test_bposit_exp
